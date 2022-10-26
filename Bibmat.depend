@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1642078784 source:d:\proiect ip\bibmat\test.cpp
+	<iostream>
+	"test.h"
+
+1642078695 d:\proiect ip\bibmat\test.h
+
+1642087986 source:d:\proiect ip\bibmat\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	"MatrixAnimations.h"
+	"VectorAnimation.h"
+	"Button.h"
+
+1642081654 d:\proiect ip\bibmat\matrixfunctions.h
+
+1642082727 source:d:\proiect ip\bibmat\matrixfunctions.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<cstring>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"MatrixFunctions.h"
+
+1642082474 source:d:\proiect ip\bibmat\button.cpp
+	<graphics.h>
+	<winbgim.h>
+	"Button.h"
+
+1642082250 d:\proiect ip\bibmat\button.h
+
+1642086253 d:\proiect ip\bibmat\matrixanimations.h
+	"MatrixFunctions.h"
+
+1642086531 source:d:\proiect ip\bibmat\matrixanimations.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<cstring>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"MatrixFunctions.h"
+	"Button.h"
+
+1642088489 source:d:\proiect ip\bibmat\vectoranimation.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<cstring>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Button.h"
+	"VectorFunctions.h"
+	"VectorAnimation.h"
+
+1642087679 source:d:\proiect ip\bibmat\vectorfunctions.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<cstring>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Button.h"
+	"VectorFunctions.h"
+	"MatrixFunctions.h"
+
+1642087574 d:\proiect ip\bibmat\vectoranimation.h
+	"VectorFunctions.h"
+
+1642087685 d:\proiect ip\bibmat\vectorfunctions.h
+	"Button.h"
+
